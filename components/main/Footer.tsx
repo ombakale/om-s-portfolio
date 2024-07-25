@@ -21,11 +21,11 @@ const Footer = () => {
                     
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">https://github.com/ombakale/</span>    
+                        <span className="text-[15px] ml-[6px]">chandler2036 </span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxDiscordLogo />
-                        <span className="text-[15px] ml-[6px]">chandler2036
+                        <span className="text-[15px] ml-[6px]">https://github.com/ombakale/
                         </span>    
                     </p>
                 </div>
