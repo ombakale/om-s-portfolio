@@ -38,7 +38,7 @@ const HeroContent = () => {
               {" "}
               You ! {" "}
             </span><br></br>
-            You're Surfing to the Best work
+            Youre Surfing to the Best work
           </span>
         </motion.div>
 
