@@ -47,7 +47,7 @@ const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
            Hello! I am Om, a student with a keen interest in Python and Data Science. 
-           I look forward to exploring, broadening my spectrum, and learning in this f.
+           I look forward to exploring, broadening my spectrum, and learning in this field.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
