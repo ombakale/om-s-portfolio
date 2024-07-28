@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-           Hello! I am Om, a student with a keen interest in Python and Data Science. 
+           Hello! I am Om, a student with a keen interest in Software engineering and Data Science. 
            I look forward to exploring, broadening my spectrum, and learning in this field.
         </motion.p>
         <motion.a
